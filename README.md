@@ -1,2 +1,2 @@
-# java_study
+# OOP_Study (Java)
 my first java study 
